@@ -99,10 +99,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/articokyra.gif" alt="PSX Clip 1" width="300" style="border-radius: 15px; border: 4px solid #4B0082;" />
-  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/kyrarequipa.gif" alt="PSX Clip 2" width="300" style="border-radius: 15px; border: 4px solid #4B0082;" />
-  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/eisbrecherkyra.gif" alt="PSX Clip 3" width="245" style="border-radius: 15px; border: 4px solid #4B0082;" />
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/articokyra.gif" alt="PSX Clip 1" width="300" style="border-radius: 15px; border: 4px solid #4B0082; margin-right: 0px;" />
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/kyrarequipa.gif" alt="PSX Clip 2" width="300" style="border-radius: 15px; border: 4px solid #4B0082; margin-right: 0px;" />
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/eisbrecherkyra.gif" alt="PSX Clip 3" width="300" style="border-radius: 15px; border: 4px solid #4B0082; margin-right: 0px;" />
 </p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
