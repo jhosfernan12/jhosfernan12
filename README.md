@@ -49,42 +49,68 @@
 - 🎧 Fun fact: I'm a big fan of NDH (Neue Deutsche Härte) music — it fuels my dark atmospheres.
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/icosaedron.gif" 
+       alt="PSX Clip 3" 
+       style="height: 250px; border-radius: 15px; border: 3px solid #4B0082;" />
+</p>
+
+
+
+ 
+<p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fun gif" />
   </a>
 </p>
 
-<!-- === PROGRAMMING LANGUAGES === -->
 
+
+<!-- LENGUAJES DE PROGRAMACIÓN -->
 <p align="center">
-  <strong style="color:#4B0082; font-size: 50px;">Programming Languages</strong>
+  <strong style="color:#4B0082; font-size: 30px;">Programming Languages</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<!-- === TOOLS I WORK WITH === -->
-
+<!-- DESARROLLO WEB -->
 <p align="center">
-  <strong style="color:#4B0082; font-size: 50px;">Tools I Work With 🛠</strong>
+  <strong style="color:#4B0082; font-size: 30px;">Web Technologies</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/xampp-%23F0DB4F.svg?&style=for-the-badge&logo=xampp&logoColor=black" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio-%23007ACC.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+<!-- GAME ENGINES -->
+<p align="center">
+  <strong style="color:#4B0082; font-size: 30px;">Game Engines</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+</p>
+
+<!-- HERRAMIENTAS Y OTRAS TECNOLOGÍAS -->
+<p align="center">
+  <strong style="color:#4B0082; font-size: 30px;">Tools & Platforms</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -109,7 +135,6 @@
 
 
 
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fun gif" />
@@ -125,8 +150,13 @@
 <table align="center" cellpadding="15" cellspacing="30" style="border-collapse: separate; border-spacing: 30px;">
   <tr>
     <td align="center">
-      <a href="https://media.discordapp.net/attachments/774239117852409866/1304188291528003675/2024-11-07-15-52-52-_online-video-cutter.com_.gif?ex=68d309ff&is=68d1b87f&hm=ade7a2e5a7a246e2fd63b2a1a4b4f77beec7acf079ca500df7f23f9695630f7f&=" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.discordapp.net/attachments/774239117852409866/1304188291528003675/2024-11-07-15-52-52-_online-video-cutter.com_.gif?ex=68d309ff&is=68d1b87f&hm=ade7a2e5a7a246e2fd63b2a1a4b4f77beec7acf079ca500df7f23f9695630f7f&=" alt="RICTUS 1" width="300" style="border-radius: 15px; border: 5px solid #4B0082;" />
+      <a href="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/them.gif" target="_blank" rel="noopener noreferrer">
+        <img 
+          src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/them.gif" 
+          alt="RICTUS 1" 
+          width="300" 
+          style="border-radius: 15px; border: 5px solid #4B0082;" 
+        />
       </a>
     </td>
     <td align="center">
@@ -160,16 +190,17 @@
 </table>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fun gif" />
   </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" rel="noopener noreferrer">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20right%20man%20in%20the%20wrong%20place%20can%20make%20all%20the%20difference%20in%20the%20world.&author=G-Man" alt="Dev Quote" />
   </a>
 </div>
+
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
