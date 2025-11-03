@@ -42,11 +42,12 @@
 - 🛠️ Skilled in Unity, C#, and comfortable with tools like Visual Studio and Visual Code.
 - 🎓 Currently studying Systems Engineering at Universidad Católica Santa María.
 - 🚀 Currently leveling up my skills with advanced shaders and rendering pipelines in Unity.
+- 💻 Exploring quantum computing and supersymmetry models.
 - 🤝 Open to collaborate on creative game jams — love pushing boundaries and experimenting!
 - 🏆 Proudly released 4 games so far, each one a step deeper into immersive horror experiences.
 - 🗣️ Good English skills and learning intermediate German.
 - 💬 Feel free to ask me about game development, horror design, or anything related to Unity and C#!
-- 🎧 Fun fact: I'm a big fan of NDH (Neue Deutsche Härte) music — it fuels my dark atmospheres.
+- 🎧 Fun fact: I'm a big fan of NDH (Neue Deutsche Härte) music — it fuels my dark/industrial atmospheres.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/icosaedron.gif" 
@@ -207,6 +208,6 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fun gif" />
   </a>
   <p><strong>Credits</strong>: <a href="https://github.com/jhosfernan12">jhosfernan12</a><br>
-🗓️ Last updated: 23/09/2025</p>
+🗓️ Last updated: 02/11/2025</p>
 </p>
 
