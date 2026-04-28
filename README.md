@@ -124,11 +124,11 @@
   <strong style="color:#4B0082; font-size: 50px;">PSX Style Shorts</strong>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; width: 100%;">
-  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/articokyra.gif" alt="PSX Clip 1" style="height: 500px; border-radius: 15px; border: 4px solid #4B0082;" />
-  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/kyrarequipa.gif" alt="PSX Clip 2" style="height: 500px; border-radius: 15px; border: 4px solid #4B0082;" />
-  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/eisbrecherkyra.gif" alt="PSX Clip 3" style="height: 500px; border-radius: 15px; border: 4px solid #4B0082;"/>
-   <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/kyranavidad.gif" alt="PSX Clip 4" style="height: 500px; border-radius: 15px; border: 4px solid #4B0082;" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/articokyra.gif" style="height:500px; border:4px solid #4B0082; border-radius:15px;">
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/kyrarequipa.gif" style="height:500px; border:4px solid #4B0082; border-radius:15px;">
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/eisbrecherkyra.gif" style="height:500px; border:4px solid #4B0082; border-radius:15px;">
+  <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/kyranavidad.gif" style="height:500px; border:4px solid #4B0082; border-radius:15px;">
 </div>
 
 
