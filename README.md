@@ -33,20 +33,20 @@
 </p>
 
 <!-- === ABOUT ME === -->
-
 <p align="center">
   <strong style="color:#4B0082; font-size: 50px;">About Me</strong>
 </p>
 
-- 🎮 I create short psychological horror games in Unity, inspired by the classic PS1/PSX aesthetic, mostly published on itch.io.
-- 🛠️ Skilled in Unity, C#, and comfortable with tools like Visual Studio and Visual Code.
-- 🎓 Currently studying Systems Engineering at Universidad Católica Santa María.
-- 🚀 Currently leveling up my skills with advanced shaders and rendering pipelines in Unity.
-- 🤝 Open to collaborate on creative game jams — love pushing boundaries and experimenting!
-- 🏆 Proudly released 4 games so far, each one a step deeper into immersive horror experiences.
-- 🗣️ Good English skills and learning intermediate German.
-- 💬 Feel free to ask me about game development, horror design, or anything related to Unity and C#!
-- 🎧 Fun fact: I'm a big fan of NDH (Neue Deutsche Härte) music — it fuels my dark/industrial atmospheres.
+- 🎮 I create short psychological horror games in Unity inspired by the PS1/PSX aesthetic, published mainly on itch.io.
+- 🛠️ I work with Unity, C#, and development tools like Visual Studio and IntelliJ IDEA.
+- 🎓 Systems Engineering student at Universidad Católica Santa María.
+- 🚀 Currently improving my skills in shaders, rendering pipelines, and low-poly horror aesthetics in Unity.
+- 🤝 I enjoy collaborating on game jams and experimental projects where I can push creative and technical limits.
+- 🏆 I’ve released 4 games so far, each one exploring darker and more immersive horror experiences.
+- 🧠 I also enjoy writing, especially science fiction stories and psychological horror, focusing on fear of the unknown and unsettling atmospheres.
+- 🗣️ Comfortable in English and currently learning intermediate German.
+- 🎧 I’m heavily inspired by industrial and dark electronic music, especially NDH (Neue Deutsche Härte) and bands like KMDFM, which strongly influence the atmosphere of my projects.
+- 💬 Always open to talking about game development, horror design, storytelling, or Unity/C# systems.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/icosaedron.gif" 
@@ -77,6 +77,8 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
 <!-- DESARROLLO WEB -->
@@ -105,10 +107,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 </p>
 
 
