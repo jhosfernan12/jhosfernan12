@@ -23,6 +23,9 @@
   <a href="https://kyraegon.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itchio&logoColor=white&scale=2" alt="KYRAEGON" />
   </a>
+   <a href="https://www.tiktok.com/@pachecodev">
+    <img src="https://img.shields.io/badge/TikTok-000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
 
 
