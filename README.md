@@ -40,16 +40,17 @@
   <strong style="color:#4B0082; font-size: 50px;">About Me</strong>
 </p>
 
-- 🎮 I create short psychological horror games in Unity inspired by the PS1/PSX aesthetic, published mainly on itch.io.
-- 🛠️ I work with Unity, C#, and development tools like Visual Studio and IntelliJ IDEA.
-- 🎓 Systems Engineering student at Universidad Católica Santa María.
-- 🚀 Currently improving my skills in shaders, rendering pipelines, and low-poly horror aesthetics in Unity.
-- 🤝 I enjoy collaborating on game jams and experimental projects where I can push creative and technical limits.
-- 🏆 I’ve released 4 games so far, each one exploring darker and more immersive horror experiences.
-- 🧠 I also enjoy writing, especially science fiction stories and psychological horror, focusing on fear of the unknown and unsettling atmospheres.
-- 🗣️ Comfortable in English and currently learning intermediate German.
-- 🎧 I’m heavily inspired by industrial and dark electronic music, especially NDH (Neue Deutsche Härte) and bands like KMDFM, which strongly influence the atmosphere of my projects.
-- 💬 Always open to talking about game development, horror design, storytelling, or Unity/C# systems.
+
+- 🎓 Systems Engineering student at Universidad Católica Santa María (Peru).
+- 💻 I develop real-time interactive applications using Unity and C#, with a strong interest in software architecture, gameplay systems and computer graphics.
+- 🎮 My public projects are primarily psychological horror games inspired by the PS1/PSX era, where I experiment with rendering techniques, immersive interaction and technical design.
+- 🚀 Currently focused on rendering pipelines, graphics programming, optimization, shader development and reusable game systems.
+- 🏗️ I enjoy designing clean, modular and maintainable software that balances performance with flexibility.
+- 🧠 I write science fiction and psychological horror, which has strengthened my approach to narrative design, environmental storytelling and player experience.
+- 🤝 I enjoy collaborating on experimental software and game development projects that combine engineering with creativity.
+- 🌍 Comfortable working in English and currently learning German.
+- 📚 Always learning new technologies and improving my understanding of computer graphics, software engineering and interactive systems.
+- 💬 Always open to discussing software engineering, computer graphics, rendering, Unity, C#, game architecture and interactive storytelling.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jhosfernan12/Unity-Scripts/main/media/icosaedron.gif" 
@@ -66,6 +67,17 @@
   </a>
 </p>
 
+## Current Interests
+
+- 🎨 Computer Graphics
+- ⚙️ Rendering Pipelines
+- 🖥️ Graphics Programming
+- 🏗️ Software Architecture
+- 🎮 Gameplay Systems
+- 🧩 Design Patterns
+- 🛠️ Developer Tools
+- 📖 Interactive Storytelling
+- 
 
 
 <!-- LENGUAJES DE PROGRAMACIÓN -->
@@ -170,6 +182,6 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Fun gif" />
   </a>
   <p><strong>Credits</strong>: <a href="https://github.com/jhosfernan12">jhosfernan12</a><br>
-🗓️ Last updated: 28/04/2026</p>
+🗓️ Last updated: 06/07/2026</p>
 </p>
 
